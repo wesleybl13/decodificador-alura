@@ -1,4 +1,4 @@
-# Decodificador e Encodificador
+# Decodificador e Codificador
 
 Acesse em: 
 https://wesleybl13.github.io/decodificador-simples/
